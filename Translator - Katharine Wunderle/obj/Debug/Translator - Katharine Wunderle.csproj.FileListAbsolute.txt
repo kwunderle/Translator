@@ -1,0 +1,20 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator___Katharine_Wunderle.japaneseTranslator.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.exe.config
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\bin\Debug\Translator - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csproj.AssemblyReference.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator___Katharine_Wunderle.japaneseTranslator.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\Translator - Katharine Wunderle\obj\Debug\Translator - Katharine Wunderle.pdb
